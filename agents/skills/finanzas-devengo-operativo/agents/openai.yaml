@@ -1,0 +1,8 @@
+interface:
+  display_name: "Finanzas Sommos — Devengo Operativo"
+  short_description: "Gestiona ingresos, gastos y salarios devengados por periodo sin confundirlos con cash."
+  brand_color: "#4D0B95"
+  default_prompt: "Usa $finanzas-devengo-operativo para revisar o actualizar Operative incomes, Real S&A y Sueldos 2026, asignando cada ingreso o gasto al periodo contable correcto y validando su impacto en CxC, CxP y Real P&L sin confundir devengo con cobros o pagos."
+
+policy:
+  allow_implicit_invocation: true
